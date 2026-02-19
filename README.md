@@ -2,10 +2,8 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://clothes369.com)
-[![Documentation](https://img.shields.io/badge/docs-wiki-blue.svg)](https://docs.clothes369.com)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
-[![Made by Gaurav](https://img.shields.io/badge/made%20by-Gaurav%20%7C%20The%20Code%20Architect-orange.svg)](https://github.com/gaurav)
+[![Made by Gaurav](https://img.shields.io/badge/made%20by-Gaurav%20%7C%20The%20Code%20Architect-orange.svg)](https://github.com/2405Gaurav)
 
 [Features](#-key-features) •
 [Quick Start](#-quick-start-guide) •
@@ -22,7 +20,7 @@
 
 👔 👗 👕 👚 👖
 
-**CLOTHES369**
+**CLOTHESx247**
 
 🛍️ Modern Clothing E-commerce Platform | 👗 Fashion Made Easy | 🛒 Smart Shopping
 
@@ -49,10 +47,10 @@
 
 | 🔗 Platform    | 📌 Link                                              |
 | -------------- | ---------------------------------------------------- |
-| 🐙 GitHub      | [github.com/gaurav](https://github.com/gaurav)       |
-| 💼 LinkedIn    | [linkedin.com/in/gaurav](https://linkedin.com/in/gaurav) |
-| 🌐 Portfolio   | [gaurav.dev](https://gaurav.dev)                     |
-| 📧 Email       | [gaurav@clothes369.com](mailto:gaurav@clothes369.com)|
+| 🐙 GitHub      | [github.com/gaurav](https://github.com/2405Gaurav)       |
+| 💼 LinkedIn    | [linkedin.com/in/gaurav](https://linkedin.com/in/2405Gaurav) |
+| 🌐 Portfolio   | [gaurav.dev](https://thegauravthakur.in)                     |
+| 📧 Email       | [gaurav@clothes369.com](mailto:gauravthakur83551@gmail.com)|
 
 </div>
 
