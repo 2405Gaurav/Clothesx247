@@ -5,6 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://clothes369.com)
 [![Documentation](https://img.shields.io/badge/docs-wiki-blue.svg)](https://docs.clothes369.com)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
+[![Made by Gaurav](https://img.shields.io/badge/made%20by-Gaurav%20%7C%20The%20Code%20Architect-orange.svg)](https://github.com/gaurav)
 
 [Features](#-key-features) •
 [Quick Start](#-quick-start-guide) •
@@ -37,6 +38,25 @@
 | [🛠️ Setup Guide](#-quick-start-guide) | [📁 Project Structure](#-project-structure) |
 | [🔒 Security](#-security-features)    | [🖥️ Frontend Features](#-frontend-features) |
 | [💻 Tech Stack](#-tech-stack)         | [🤝 Contributing](#-contributing)           |
+
+## 👨‍💻 Project Owner
+
+<div align="center">
+
+### Gaurav — *"The Code Architect"*
+
+> *Designing systems that scale, writing code that lasts.*
+
+| 🔗 Platform    | 📌 Link                                              |
+| -------------- | ---------------------------------------------------- |
+| 🐙 GitHub      | [github.com/gaurav](https://github.com/gaurav)       |
+| 💼 LinkedIn    | [linkedin.com/in/gaurav](https://linkedin.com/in/gaurav) |
+| 🌐 Portfolio   | [gaurav.dev](https://gaurav.dev)                     |
+| 📧 Email       | [gaurav@clothes369.com](mailto:gaurav@clothes369.com)|
+
+</div>
+
+---
 
 ## 🚀 Quick Overview
 
@@ -284,3 +304,18 @@ We welcome contributions! Here's how you can help:
 ## 📄 License
 
 MIT License - feel free to use and modify for your needs!
+
+---
+
+<div align="center">
+
+Crafted with ❤️ by **Gaurav** — *The Code Architect*
+
+*"Designing systems that scale, writing code that lasts."*
+
+[![GitHub](https://img.shields.io/badge/GitHub-gaurav-black?logo=github)](https://github.com/gaurav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gaurav-blue?logo=linkedin)](https://linkedin.com/in/gaurav)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gaurav.dev-green?logo=google-chrome)](https://gaurav.dev)
+[![Email](https://img.shields.io/badge/Email-gaurav@clothes369.com-red?logo=gmail)](mailto:gaurav@clothes369.com)
+
+</div>
