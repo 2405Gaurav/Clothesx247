@@ -313,9 +313,9 @@ Crafted with ❤️ by **Gaurav** — *The Code Architect*
 
 *"Designing systems that scale, writing code that lasts."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-gaurav-black?logo=github)](https://github.com/gaurav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gaurav-blue?logo=linkedin)](https://linkedin.com/in/gaurav)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gaurav.dev-green?logo=google-chrome)](https://gaurav.dev)
-[![Email](https://img.shields.io/badge/Email-gaurav@clothes369.com-red?logo=gmail)](mailto:gaurav@clothes369.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gaurav-black?logo=github)](https://github.com/2405Gaurav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gaurav-blue?logo=linkedin)](https://linkedin.com/in/2405Gaurav)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gaurav.dev-green?logo=google-chrome)](https://thegauravthakur.in)
+[![Email](https://img.shields.io/badge/Email-gaurav@clothes369.com-red?logo=gmail)](mailto:gauravthakur83551@gmail.com)
 
 </div>
