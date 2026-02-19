@@ -49,8 +49,8 @@
 | -------------- | ---------------------------------------------------- |
 | 🐙 GitHub      | [github.com/gaurav](https://github.com/2405Gaurav)       |
 | 💼 LinkedIn    | [linkedin.com/in/gaurav](https://linkedin.com/in/2405Gaurav) |
-| 🌐 Portfolio   | [gaurav.dev](https://thegauravthakur.in)                     |
-| 📧 Email       | [gaurav@clothes369.com](mailto:gauravthakur83551@gmail.com)|
+| 🌐 Portfolio   | [thegauravthakur.in](https://thegauravthakur.in)                     |
+| 📧 Email       | [mailtoGT](mailto:gauravthakur83551@gmail.com)|
 
 </div>
 
